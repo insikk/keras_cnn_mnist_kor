@@ -51,3 +51,14 @@ CNN model을 이용하여 손글씨 숫자를 분류하는 분류기를 만들�
 > 예2) pip install h5py
 
 * 또 다른 설치 참고 링크: http://stackoverflow.com/questions/34097988/how-to-install-keras-and-theano-in-anaconda-python-2-7-in-windows
+
+
+## 실행하기
+
+anaconda python 설치 후, cmd 명령창을 엽니다. 
+이 디렉토리로 이동한 후, "ipython notebook" 명령을 실행해 주세요. 
+이후 열리는 창에서 설명을 따라 실행하면 됩니다. 
+
+## 피드백
+
+설명이 더 필요하다고 생각되는 부분이 있거나 개선해야 할 부분이 보이면 insik92@gmail.com으로 의견을 보내주세요. 
